@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="demo001">
+    <wb-module deploy-name="demo01">
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
         <wb-resource deploy-path="/" source-path="/target/m2e-jee/web-resources"/>
         <wb-resource deploy-path="/" source-path="/WebRoot" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="context-root" value="demo001"/>
-        <property name="java-output-path" value="/demo001/WebRoot/WEB-INF/classes"/>
+        <property name="java-output-path" value="/demo01/WebRoot/WEB-INF/classes"/>
+        <property name="context-root" value="demo01"/>
     </wb-module>
 </project-modules>
