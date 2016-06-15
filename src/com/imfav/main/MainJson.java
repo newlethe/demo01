@@ -1,4 +1,4 @@
-package com.zh.main;
+package com.imfav.main;
 
 import java.io.BufferedReader;
 import java.io.IOException;

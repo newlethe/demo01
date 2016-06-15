@@ -1,4 +1,4 @@
-package com.zh.test;
+package com.imfav.test;
 
 import java.util.*;
 import java.util.Map.Entry;
